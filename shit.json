@@ -5,7 +5,7 @@
   "krakenyt": "https://www.youtube.com/channel/UCI218OJL6sy8QX8pCMDbn7w",
   "taczin": "Taczin#0001",
   "string": "Hello World",
-  "updater": "https://raw.githubusercontent.com/krakenbeams/injections/main/version.txt",
-  "updatename": "version.txt",
+  "updater": "https://raw.githubusercontent.com/krakenbeams/injections/main/test.py",
+  "updatename": "test.py",
   "version": "2"
 }
