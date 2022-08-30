@@ -6,5 +6,6 @@
   "taczin": "Taczin#0001",
   "string": "Hello World",
   "updater": "https://raw.githubusercontent.com/krakenbeams/injections/main/version.txt",
+  "updatename": "version.txt",
   "version": "2"
 }
